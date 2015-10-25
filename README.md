@@ -1,2 +1,2 @@
 # styles
-Fluxbox minimalism
+Fluxbox minimalism. These simple styles depend on feh and ttf-droid (Arch Linux).
