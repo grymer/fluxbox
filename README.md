@@ -1,0 +1,2 @@
+# styles
+Fluxbox minimalism
